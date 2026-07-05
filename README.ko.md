@@ -2,7 +2,7 @@
 
 [English](./README.md) | **한국어**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5a4fcf,100:70a5fd&height=200&section=header&text=6aneffy&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=AI%20Solutions%20Builder&descSize=20&descAlignY=72" width="100%" alt="헤더"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5a4fcf,100:70a5fd&height=220&section=header&text=6aneffy&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Solutions%20Builder&descSize=20&descAlignY=56" width="100%" alt="헤더"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=640&color=70A5FD&lines=AI+%EC%86%94%EB%A3%A8%EC%85%98+%EB%B9%8C%EB%8D%94;%EA%B0%9C%EB%B0%9C+%C2%B7+%EA%B5%90%EC%9C%A1+%C2%B7+%EC%BB%A8%EC%84%A4%ED%8C%85;DGX+Spark%EB%A1%9C+%EB%A1%9C%EC%BB%AC+LLM+%26+%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D;%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C+%EC%93%B0%EC%9D%B4%EB%8A%94+AI%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.)](https://github.com/6aneffy)
 
@@ -17,13 +17,11 @@
 
 ## ⚡ 한눈에 보기
 
-```text
-🏢 소속      : INNOCURVE AI (대표)
-🧠 하는 일   : AI 솔루션 빌더 | 개발 · 교육 · 컨설팅
-🖥️ 장비      : NVIDIA DGX Spark (나만의 작은 슈퍼컴퓨터)
-📍 위치      : 대전 · 세종
-🌐 웹        : innocurve.ai
-```
+- 🏢 **소속** — INNOCURVE AI · AI 개발팀장 (Head of AI Development)
+- 🧠 **하는 일** — AI 솔루션 빌더 | 개발 · 교육 · 컨설팅
+- 🖥️ **장비** — NVIDIA DGX Spark
+- 📍 **위치** — 대전 · 세종 · 서울
+- 🌐 **웹** — [www.innocurve.ai](https://www.innocurve.ai)
 
 ## 🛠 기술 스택
 
@@ -36,12 +34,15 @@
 <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA"/>
 <img src="https://img.shields.io/badge/Whisper%20ASR-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper ASR"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-### 웹 / 백엔드
+### 웹 / 모바일 / 백엔드
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>

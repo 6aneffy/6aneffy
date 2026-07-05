@@ -2,7 +2,7 @@
 
 **English** | [한국어](./README.ko.md)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5a4fcf,100:70a5fd&height=200&section=header&text=6aneffy&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=AI%20Solutions%20Builder&descSize=20&descAlignY=72" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5a4fcf,100:70a5fd&height=220&section=header&text=6aneffy&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Solutions%20Builder&descSize=20&descAlignY=56" width="100%" alt="header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=640&color=70A5FD&lines=AI+Solutions+Builder;Development+%C2%B7+Education+%C2%B7+Consulting;Local+LLMs+%26+Fine-tuning+on+DGX+Spark;Building+AI+that+ships.)](https://github.com/6aneffy)
 
@@ -17,13 +17,11 @@
 
 ## ⚡ Quick facts
 
-```text
-🏢 work      : INNOCURVE AI (founder)
-🧠 doing     : AI Solutions Builder | Development, Education & Consulting
-🖥️ hardware  : NVIDIA DGX Spark (my tiny supercomputer)
-📍 location  : Daejeon · Sejong, KR
-🌐 web       : innocurve.ai
-```
+- 🏢 **Work** — INNOCURVE AI · Head of AI Development
+- 🧠 **Doing** — AI Solutions Builder | Development, Education & Consulting
+- 🖥️ **Hardware** — NVIDIA DGX Spark
+- 📍 **Location** — Daejeon · Sejong · Seoul, KR
+- 🌐 **Web** — [www.innocurve.ai](https://www.innocurve.ai)
 
 ## 🛠 Tech Stack
 
@@ -36,12 +34,15 @@
 <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA"/>
 <img src="https://img.shields.io/badge/Whisper%20ASR-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper ASR"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-### Web / Backend
+### Web / Mobile / Backend
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
