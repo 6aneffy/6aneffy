@@ -15,7 +15,7 @@
 
 </div>
 
-## ⚡ 한눈에 보기
+## 한눈에 보기
 
 - 🏢 **소속** — INNOCURVE AI · AI 개발팀장 (Head of AI Development)
 - 🧠 **하는 일** — AI 솔루션 빌더 | 개발 · 교육 · 컨설팅
@@ -23,7 +23,7 @@
 - 📍 **위치** — 대전 · 세종 · 서울
 - 🌐 **웹** — [www.innocurve.ai](https://www.innocurve.ai)
 
-## 🛠 기술 스택
+## 기술 스택
 
 ### AI / ML
 <p>
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
-## 📊 3D 잔디
+## 3D 잔디
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/6aneffy/6aneffy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D 기여 그래프"/>

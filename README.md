@@ -15,7 +15,7 @@
 
 </div>
 
-## ⚡ Quick facts
+## Quick facts
 
 - 🏢 **Work** — INNOCURVE AI · Head of AI Development
 - 🧠 **Doing** — AI Solutions Builder | Development, Education & Consulting
@@ -23,7 +23,7 @@
 - 📍 **Location** — Daejeon · Sejong · Seoul, KR
 - 🌐 **Web** — [www.innocurve.ai](https://www.innocurve.ai)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### AI / ML
 <p>
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
-## 📊 Contributions in 3D
+## Contributions in 3D
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/6aneffy/6aneffy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
