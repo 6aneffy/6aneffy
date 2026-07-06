@@ -51,6 +51,16 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
+## 자격증
+
+<div align="center">
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/T2VqQXZhRWQwZDk0L0FqeXVXZXdNZz09">
+<img src="./assets/aice-associate.png" width="120" alt="AICE Associate"/>
+</a>
+
+**AICE Associate** — 모두를 위한 AI 자격증
+</div>
+
 ## 3D 잔디
 
 <div align="center">
